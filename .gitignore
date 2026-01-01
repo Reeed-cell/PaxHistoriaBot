@@ -1,0 +1,6 @@
+nations_data.json
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.log
